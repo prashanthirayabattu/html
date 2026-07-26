@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+    <hr>
+</head>
+<body>
+
+    <h1>Hello Prashhhh 👋</h1>
+
+    <p>Hello Prashhhh!</p>
+
+    <!-- <p>I am Prashhh. I am learning HTML.</p> -->
+     <h1>heading1</h1>
+     <h2>heading2</h2>
+     <h3>heading3</h3>
+     <h4>heading4</h4>
+     <h5>heading5</h5>
+     <h6>heading</h6>
+     <p>Hello world hello world helloworld qwertyuiophngujojujyegfhbvvn fvnrpber vovrbvhvnrwbvnvjwrvwvobrv</p>
+     <a href ="https://google.com">prash</a>
+     <image src ="https://static.vecteezy.com/system/resources/thumbnails/049/855/347/small/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg" alt = "Nature image" height = 100 width = 200>
+        <hr>
+        <br>
+        <b>Pavan</b>
+        <br>
+        <i>prashanthi</i>
+        <br>
+        <u>mamuluu</u>
+        <br>
+        <big>Prashuu</big>
+        <br>
+        <small>pavan</small>
+        <hr>
+        <p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+        <p>A<sup>n</sup>+B</p>
+
+</body>
+</html>
